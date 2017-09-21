@@ -1,0 +1,5 @@
+Get-date     get-date -displayhint date   $A = get-date 5/1/2001  (get-date).addminutes(100)
+new-timespan    $get-date -month 12 -day 31 -year 2009 -hour 2)
+new-item
+copy-item   
+
